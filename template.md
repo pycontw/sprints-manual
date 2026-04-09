@@ -96,19 +96,19 @@ If you are planning to create your own group, approach {Sprint organizer} so the
 
 | {date} |  |
 | ----- | :---- |
-| 8:00 AM - 8:30 AM | Registration confirmation |
+| 9:00 AM - 9:30 AM | Registration confirmation |
 |  | Registrations for new Sprint groups |
 |  | Socializing with other sprinters |
-| 8:30 AM - 9:00 AM | Kickoff |
+| 8:30 AM - 9:00 AM | Openings |
 | | Opening Remarks |
 | | Sprint group's presentations and call for participants. |
 | | 5 mins max per presenter. Pull Request Workshop presentation |
-| 9:00 AM - 10:30 AM | Pull Request Workshop |
-| 9:00 AM - 12:00 PM | Sprint time |
+| 9:00 AM - 9:10 AM | Grouping |
+| 9:10 AM - 12:00 PM | Sprint time |
 | 12:00 PM - 1:00 PM | Lunch time |
-| 1:00 PM - 4:00 PM | Sprint time continues |
-| 4:00 PM - 4:30 PM | Presentation of Sprint groups on work done |
-| 4:30 PM | Picture taking and Closing |
+| 1:00 PM - 4:30 PM | Sprint time continues |
+| 4:30 PM - 5:00 PM | Presentation of Sprint groups on work done |
+| 5:00 PM | Picture taking and Closing |
 
 ### **How do we start contributing?**
 
