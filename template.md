@@ -172,9 +172,12 @@ Examples of beginner tasks are:
 
 ---
 
-## **Nice to have**
+## **Good to have**
 
-- A printer. Preferably a quiet one or placed at a corner.
+- White board for discussion
+- Projector (necessary)
+- wifi (necessary)
+- extend power plug
 
 ---
 
